@@ -4,5 +4,7 @@ Este repositório contém o resumo das lições aprendidas durante o desenvolvim
 ## Resumo 🔥
 
 Ferramentas de IA com Microsoft Azure;**
-Ia que traduz videos de acordo com o idiona escolhido; e**
+
+Ia que traduz videos de acordo com o idiona escolhido; e
+
 Recursos Openai;
