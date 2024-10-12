@@ -7,4 +7,8 @@ Ferramentas de IA com Microsoft Azure;**
 
 Ia que traduz videos de acordo com o idiona escolhido; e
 
-Recursos Openai;
+Recursos Openai; 
+
+Benefícios;
+
+Tipos de Serviço de Nuvem;
