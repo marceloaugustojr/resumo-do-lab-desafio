@@ -12,3 +12,5 @@ Recursos Openai;
 Benefícios;
 
 Tipos de Serviço de Nuvem;
+
+Computação e Rede AZ900;
