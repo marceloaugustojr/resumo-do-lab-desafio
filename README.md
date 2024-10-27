@@ -22,3 +22,5 @@ Identidade, Acesso e Segurança;
 Gerencialmento de Custos;
 
 Governança e Conformidade;
+
+Ferramentas de Gerenciamento e Implantação.
