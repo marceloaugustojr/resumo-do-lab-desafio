@@ -18,3 +18,5 @@ Computação e Rede AZ900;
 Tipos de Armazenamento;
 
 Identidade, Acesso e Segurança;
+
+Gerencialmento de Custos;
