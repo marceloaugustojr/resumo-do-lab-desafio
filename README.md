@@ -20,3 +20,5 @@ Tipos de Armazenamento;
 Identidade, Acesso e Segurança;
 
 Gerencialmento de Custos;
+
+Governança e Conformidade;
