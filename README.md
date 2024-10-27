@@ -23,4 +23,6 @@ Gerencialmento de Custos;
 
 Governança e Conformidade;
 
-Ferramentas de Gerenciamento e Implantação.
+Ferramentas de Gerenciamento e Implantação;
+
+Ferramentas de Monitoramento.
